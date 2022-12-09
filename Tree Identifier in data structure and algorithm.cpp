@@ -1,15 +1,3 @@
-/*Prepared By: Group 5 
-     Name                ID
-1. Yikeber Misganaw  BDU1308331
-2. Milete Tsegazeab  BDU1308582
-3. Henok Abrham      BDU1307206
-4. Dawit Zewdu       BDU1307571
-5. Ezira Tigab       BDU1308251
-6. Betelhem Fentahun BDU1311585
-7. Bezawit Etsubneh  BDU1306205
-8. Dagim Gizachew    BDU1307320
-*/
-
 #include<iostream>
 using namespace std;
    
